@@ -10,14 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dompurify": "^2.0.8",
+    "dompurify": "^2.3.1",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "jsdom": "^16.2.1",
-    "marked": "^0.8.0",
+    "jsdom": "^16.7.0",
+    "marked": "^0.8.2",
     "method-override": "^3.0.0",
     "mongoose": "^5.9.4",
-    "slugify": "^1.4.0"
+    "slugify": "^1.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
